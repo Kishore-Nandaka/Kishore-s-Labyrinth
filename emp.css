@@ -1,0 +1,14 @@
+*{
+display: block; 
+font-size:16px;
+margin-left: 5px;
+margin-top: 3px;
+}
+
+employee {
+color: rgb(27, 27, 27);
+font-size: 30px;
+margin-top: 20px;
+/* border: 3px solid black; */
+/* border-width: 25cm; */
+}

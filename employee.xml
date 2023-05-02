@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="emp.css" ?>
+
+<employees>
+  <employee>
+    <name>Arpan</name>
+    <id>1234</id>
+    <role>Developer</role>
+    <contact>arpandt@example.com</contact>
+    <department>Engineering</department>
+  </employee>
+  <employee>
+    <name>Shashi</name>
+    <id>5678</id>
+    <role>Designer</role>
+    <contact>Shashik@example.com</contact>
+    <department>Creative</department>
+  </employee>
+  <employee>
+    <name>Sathwik</name>
+    <id>9012</id>
+    <role>Manager</role>
+    <contact>Sathwik@example.com</contact>
+    <department>Operations</department>
+  </employee>
+  <employee>
+    <name>Sarah</name>
+    <id>3456</id>
+    <role>Marketing Specialist</role>
+    <contact>sarah.lee@example.com</contact>
+    <department>Marketing</department>
+  </employee>
+  <employee>
+    <name>David</name>
+    <id>7890</id>
+    <role>Accountant</role>
+    <contact>david@example.com</contact>
+    <department>Finance</department>
+  </employee>
+</employees>

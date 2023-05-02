@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login Page</title>
+	<style>
+		form {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			margin-top: 100px;
+		}
+
+		input[type="text"], input[type="password"] {
+			padding: 10px;
+			margin-bottom: 20px;
+			width: 300px;
+			border-radius: 5px;
+			border: 1px solid #ccc;
+		}
+
+		input[type="submit"] {
+			background-color: dodgerblue;
+			color: #fff;
+			padding: 10px 20px;
+			border: none;
+			border-radius: 5px;
+			cursor: pointer;
+		}
+	</style>
+</head>
+<body>
+	<form method="post" action="shopping_cart.php">
+		<label>Username:</label>
+		<input type="text" name="username">
+
+		<label>Password:</label>
+		<input type="password" name="password">
+
+		<input type="submit" value="Login">
+	</form>
+</body>
+</html>
